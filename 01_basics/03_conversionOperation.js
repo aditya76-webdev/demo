@@ -43,6 +43,36 @@ let str3 = str1+str2;
 // ++gameCounter; // pre increment
 // console.log(gameCounter);
 
+// *****************************comparison operator***********************
+
+// console.log(2>1);
+// console.log(2>=1);
+// console.log(2<1);
+// console.log(2==1);
+// console.log(2!=1);
+
+// console.log(null>0);
+// console.log(null == 0);
+// console.log(null >= 0);
+
+
+// console.log(undefined >= null);
+// console.log(undefined == null); // How is this possible ??
+// console.log(undefined === null);
+// console.log(undefined > null);
+// console.log(undefined < null);
+// console.log(undefined <= null);
+
+console.log(undefined >= 0);
+console.log(undefined == 0);
+console.log(undefined === 0);
+console.log(undefined > 0);
+console.log(undefined < 0);
+console.log(undefined <= 0);
+
+
+
+
 
 
 
