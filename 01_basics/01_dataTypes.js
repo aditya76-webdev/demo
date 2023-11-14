@@ -17,3 +17,5 @@ let isLoggedIn = true ;
 console.log(typeof 'aditya');
 console.log(typeof age);
 
+console.log(typeof null);  // op=> object
+console.log(typeof undefined); // op=> undefined
